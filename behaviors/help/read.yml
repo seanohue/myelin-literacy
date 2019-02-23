@@ -1,0 +1,8 @@
+---
+body: |
+  You may come across items that you can 'read'. To list the readable contents of the item, use 'read <item name>' to see a table of contents or an index.
+  Then, you may use 'read <item name> <section name>' to read a specific section in detail.
+related:
+  - use
+  - look
+  - inventory
